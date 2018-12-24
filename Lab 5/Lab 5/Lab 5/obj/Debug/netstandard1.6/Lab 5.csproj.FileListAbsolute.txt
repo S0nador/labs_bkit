@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\bin\Debug\netstandard1.6\Lab 5.deps.json
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\bin\Debug\netstandard1.6\Lab 5.dll
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\bin\Debug\netstandard1.6\Lab 5.pdb
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\obj\Debug\netstandard1.6\Lab 5.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\obj\Debug\netstandard1.6\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\obj\Debug\netstandard1.6\Lab 5.AssemblyInfo.cs
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\obj\Debug\netstandard1.6\Lab 5.dll
+C:\Users\Student\Desktop\Новая папка\BKIT-master\Lab 5\Lab 5\Lab 5\obj\Debug\netstandard1.6\Lab 5.pdb
